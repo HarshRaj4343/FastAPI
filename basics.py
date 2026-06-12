@@ -15,3 +15,8 @@ def about():
 """
 python3 -m uvicorn file_name:app --reload
 """
+
+# Use:
+"""
+pip freeze > requirements.txt for auto-generating requirements.txt
+"""
